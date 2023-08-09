@@ -6,4 +6,4 @@
 # 2.演示视频
 https://mp.weixin.qq.com/s?__biz=Mzg4NjczOTY3OQ==&mid=2247484603&idx=1&sn=f0196177514ca6ce43053d1a7ae0413f&chksm=cf94430bf8e3ca1d96e80a3d9835b0f749cc82143ec28deda074ca327dd795021daf3f0bd205#rd
 # 3.px4交流群二维码
-![px4无人机交流群二维码](./flight/src/offboard_node_py/scripts/Weixin Image_20230809225449.jpg "交流群")
+![px4无人机交流群二维码]("./flight/src/offboard_node_py/scripts/Weixin Image_20230809225449.jpg")
